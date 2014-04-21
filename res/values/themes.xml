@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!--
     <style name="TextSecure.LightTheme" parent="@style/Theme.Sherlock.Light.DarkActionBar">
         <item name="conversation_list_item_background_read">@drawable/conversation_list_item_background_read_light</item>
         <item name="conversation_list_item_background_unread">@drawable/conversation_list_item_background_unread_light</item>
@@ -86,5 +85,5 @@
         <item name="android:listPreferredItemPaddingEnd">16dip</item>
     </style>
 
-    -->
+
 </resources>
