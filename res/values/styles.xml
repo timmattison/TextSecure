@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!--
     <style name="NoAnimation.Theme.Sherlock.Light.DarkActionBar" parent="@style/Theme.Sherlock.Light.DarkActionBar">
         <item name="android:windowAnimationStyle">@null</item>        
     </style>
+    -->
     
 	<style name="transparent_progress">
 	    <item name="android:windowFrame">@null</item>
@@ -78,7 +80,7 @@
 
     <style name="TextSecureDialogButtonBar">
         <item name="android:background">@null</item>
-        <item name="android:dividerPadding">0dp</item>
+        <!-- <item name="android:dividerPadding">0dp</item> -->
     </style>
 
     <style name="TextSecureBorderlessButtonSmall">
